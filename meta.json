@@ -1,0 +1,23 @@
+{
+  "repo": "minitool-power-complete-2026",
+  "product": "MiniTool Power Complete 2026",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "backup-recovery",
+  "topics": [
+    "minitool-power-complete",
+    "minitool-windows",
+    "backup-recovery-desktop",
+    "how-to-install-minitool",
+    "minitool-power-complete-desktop-package",
+    "minitool-workspace",
+    "minitool-2026",
+    "minitool-power-complete-pro-tools",
+    "minitool-suite",
+    "zentool-minitool"
+  ],
+  "site": "zentool.art"
+}
